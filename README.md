@@ -1,3 +1,7 @@
+name:sanjeevpriya
+
+reg no :212224040289
+
 # Single server with infinite capacity (M/M/1):(oo/FIFO)
 ## Aim :
 To find (a) average number of materials in the system (b) average number of materials in the conveyor (c) waiting time of each material in the system (d) waiting time of each material in the conveyor, if the arrival  of materials follow poisson process with the mean interval time 12 seconds, serivice time of lathe machine follows exponential distribution with mean serice time 1 second and average service time of robot is 7seconds.
@@ -20,6 +24,11 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ## Experiment:
 
+![Screenshot 2025-05-22 174621](https://github.com/user-attachments/assets/4007c5cb-f9cc-414f-a924-fb0f092fe1b0)
+
+![Screenshot 2025-05-22 174632](https://github.com/user-attachments/assets/4cf46de4-1223-40e7-a7fa-bc2db4634880)
+
+
 
  
 ## Program
@@ -27,5 +36,7 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ## Output :
 
-## Result :
+![Screenshot 2025-05-22 174511](https://github.com/user-attachments/assets/e8712365-f343-48f4-a1c3-abea72fd7f89)
 
+## Result :
+The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
